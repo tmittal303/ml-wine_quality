@@ -1,6 +1,6 @@
 # Wine Quality Prediction — Machine Learning Project
 
-A complete end-to-end ML project that predicts whether a wine is **GOOD** or **BAD** 
+ML project that predicts whether a wine is **GOOD** or **BAD** 
 based on its properties.
 
 ---
@@ -46,12 +46,6 @@ based on its properties.
 3. Open `Wine_Quality_ML_Project.ipynb` in VS Code or Google Colab
 4. Run all cells in order
 
----
-
-## Author
-
-```
-Click **Commit changes** when done.
 ---
 
 
